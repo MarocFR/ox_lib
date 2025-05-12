@@ -42,8 +42,6 @@ const useStyles = createStyles((theme) => ({
     width: '500px',
     height: '500px',
     borderRadius: '50%',
-    border: '2px solid rgba(255, 255, 255, 0.2)',
-    backgroundColor: 'rgba(0, 0, 0, 0.4)',
     pointerEvents: 'none',
   },
   pageIndicatorContainer: {
